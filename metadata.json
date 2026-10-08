@@ -1,0 +1,6 @@
+{
+  "name": "CourtVerse",
+  "description": "Virtual Courtroom Practice Platform for Law Students",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
